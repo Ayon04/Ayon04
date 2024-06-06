@@ -24,6 +24,12 @@
 <a href="https://linkedin.com/in/ayon-ghosh-1323a22a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayon-ghosh-1323a22a1" height="30" width="40" /></a>
 <a href="https://fb.com/ayon.gh.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayon.gh.1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayon2144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayon2144" height="30" width="40" /></a>
+
+<a href="[https://www.codechef.com/users/ayon2144](https://x.com/ghosh_ayon52642)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png
+" alt="ayon2144" height="30" width="40" /></a>
+
+
+ 
 </p>
 
 <h3 align="left">Programming Languages:</h3>
