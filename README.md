@@ -5,7 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon04&label=Profile%20views&color=0e75b6&style=flat" alt="ayon04" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-I am passionate about programming, particularly web application development, data analysis, and database management. My academic background has provided me with foundational knowledge in these areas, and I am eager to develop further my expertise to excel in the professional sphere.
+
+<h4 align="center">I am passionate about programming, particularly web application development, data analysis, and database management. My academic background has provided me with foundational knowledge in these areas, and I am eager to develop further my expertise to excel in the professional sphere.</h4>
+
+
 
 <img src="https://camo.githubusercontent.com/5e04cf6a7c80bea72ba74dd27f67734eb9e6f2cba3e50f9bd50b77767b144b37/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a2d6e744c33447376632d644a35634c475274537545772e676966" alt="Girl in a jacket" width="950" height="300">
 
