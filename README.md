@@ -23,7 +23,7 @@ I am passionate about programming, particularly web application development, dat
 <a href="https://www.codechef.com/users/ayon2144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayon2144" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
