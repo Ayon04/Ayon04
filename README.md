@@ -1,4 +1,3 @@
-![MasterHead](file:///C:/Users/Ayon%20Ghosh/Downloads/Simple%20Work%20LinkedIn%20Banner.png)
 
 <h1 align="center"> I'm Ayon Ghosh</h1>
 <h3 align="center">Programmer From Bangladesh.</h3>
