@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web Application and Database**
 
-- 📫 How to reach me **gayon@gmail.com**
+- 📫 How to reach me **gayon125@gmail.com or ghoshayon175@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
